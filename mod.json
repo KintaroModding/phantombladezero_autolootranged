@@ -1,0 +1,14 @@
+{
+  "name": "Auto Loot (Ranged)",
+  "folder": "phantombladezero_autolootranged",
+  "author": "Kintaro",
+  "version": "1.2",
+  "description": "Loot piles near you are picked up by themselves from a short distance; chests open when the game's prompt targets them. Gear choices, story items and scripted loot stay for the player. Settings in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-301524_JKS-17219",
+  "engine": "UE5_7",
+  "ue4ss": "v3.0.1-1188-gf885e8d2"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Auto Loot (Ranged)",
+  "summary": "Loot piles near you are picked up by themselves from a short distance. Range, chests and loot types are set in config.lua, live in game.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["quality-of-life", "items"],
+  "requires": ["UE4SS (tested with v3.0.1-1188-gf885e8d2)"],
+  "gameVersions": ["Release (Steam build 26266538)"],
+  "cover": "docs/cover.png"
+}
