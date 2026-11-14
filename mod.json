@@ -8,7 +8,7 @@
   "game": "phantombladezero",
   "gameFolder": "PBZ",
   "win64Path": "platform\\steam",
-  "gameVersion": "CL-301524_JKS-17219",
+  "gameVersion": "CL-302256_JKS-17280",
   "engine": "UE5_7",
-  "ue4ss": "v3.0.1-1188-gf885e8d2"
+  "ue4ss": "v4.0.0"
 }

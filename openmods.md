@@ -66,8 +66,8 @@ in use in the line `[Auto Loot (Ranged)] Settings: ...`, and names each value it
 
 ## Compatibility
 
-- Game version: Release (Steam build 26266538) (`CL-301524_JKS-17219`).
-- Tested with UE4SS `v3.0.1-1188-gf885e8d2`.
+- Game version: Steam build 26367565 (`CL-302256_JKS-17280`).
+- UE4SS `v4.0.0`. First tested in game with UE4SS `v3.0.1-1188-gf885e8d2`.
 - Works with [Loot Glow Amplified](https://github.com/KintaroModding/phantombladezero_lootglowamplified): a taken pile
   stays dark.
 - Another auto loot mod that replaces the game's `InteractionUI.js` would pick up the same loot: use only one of them.
