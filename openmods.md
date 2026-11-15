@@ -28,7 +28,7 @@ touch your save.
 
 ## Screenshots
 
-![Auto Loot (Ranged)](docs/cover.png)
+![Auto Loot (Ranged)](docs/cover.webp)
 
 ## How to install
 
